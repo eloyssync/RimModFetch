@@ -16,7 +16,7 @@ A lightweight, native C++ Win32 GUI utility to batch-download Steam Workshop mod
 4. Verify paths to `steamcmd.exe` and your RimWorld `Mods` folder.
 5. Paste Workshop URLs or IDs into the text box and click **Download & Install**.
 
-*No Steam credentials needed — mod downloads use anonymous authentication.*
+*No Steam credentials needed  mod downloads use anonymous authentication.*
 
 ### Build from source
 
