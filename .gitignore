@@ -1,0 +1,18 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+*.pdb
+
+# Visual Studio & IDEs
+.vs/
+.vscode/
+bin/
+build/
+x64/
+Debug/
+Release/
+
+# Logs & temp files
+*.log
+steamcmd/
