@@ -2,6 +2,8 @@
 
 A lightweight, native C++ Win32 GUI utility to batch-download Steam Workshop mods for RimWorld directly via SteamCMD.
 
+<img width="596" height="486" alt="image" src="https://github.com/user-attachments/assets/1447f690-91a5-4d33-a9fc-9fcb15cac58a" />
+
 ### Features
 - Native Win32 GUI with zero bloated dependencies.
 - Extracts Steam Workshop IDs automatically from raw links, text, or number lists.
